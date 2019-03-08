@@ -7,7 +7,7 @@
     <version>5.0.1</version>
     <authors>SD Card Association</authors>
     <owners>Zachar</owners>
-    <iconUrl></iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/Zachar2/Chocolatey/master/sdformatter/sd-card-formatter.png</iconUrl>
     <projectUrl>https://www.sdcard.org/downloads/formatter_4/</projectUrl>
     <licenseUrl>https://www.sdcard.org/downloads/formatter_4/eula_windows/</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>

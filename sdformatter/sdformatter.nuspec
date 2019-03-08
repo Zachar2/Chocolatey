@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>sdformatter</id>
+    <title>SD Memory Card Formatter (Install)</title>
+    <version>5.0.1</version>
+    <authors>SD Card Association</authors>
+    <owners>Zachar</owners>
+    <iconUrl></iconUrl>
+    <projectUrl>https://www.sdcard.org/downloads/formatter_4/</projectUrl>
+    <licenseUrl>https://www.sdcard.org/downloads/formatter_4/eula_windows/</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <copyright>Copyright © SD Association. All Rights Reserved.</copyright>
+    <docsUrl>https://www.sdcard.org/downloads/formatter_4/SD_CardFormatter5UserManualEN_v0104.pdf</docsUrl>
+    <bugTrackerUrl>https://www.sdcard.org/contact_us/index.html</bugTrackerUrl>
+    <tags>sd sdhc sdxc sdcard sc-card microsd flash card format formatter erase admin</tags>
+    <summary>This software from the SD Card Assocition formats all SD memory cards, SDHC memory cards and SDXC memory cards. SD Formatter provides quick and easy access to the full capabilities of your SD, SDHC and SDXC memory cards. The SD Formatter was created specifically for memory cards using the SD/SDHC/SDXC standards.</summary>
+    <description>The SD Memory Card Formatter formats SD Memory Card, SDHC Memory Card and SDXC Memory Card (respectively SD/SDHC/SDXC Cards) complying with the SD File System Specification created by the SD Association (SDA).
+
+It is strongly recommended to use the SD Memory Card Formatter to format SD/SDHC/SDXC Cards rather than using formatting tools provided with individual operating systems. In general, formatting tools provided with operating systems can format various storage media including SD/SDHC/SDXC Cards, but it may not be optimized for SD/SDHC/SDXC Cards and it may result in lower performance.
+
+SD/SDHC/SDXC Cards have a “Protected Area” for SD Card security purposes. The SD Memory Card Formatter does not format the protected area in the SD/SDHC/SDXC Cards. The protected area shall be formatted by an appropriate PC application or SD host devices that provide SD security function.
+
+The SD Memory Card Formatter doesn't support SD/SDHC/SDXC Card encrypted by the "BitLocker To Go" functionality of Windows. Please format the SD/SDHC/SDXC Card after it has been unlocked.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

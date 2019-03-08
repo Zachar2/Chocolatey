@@ -6,6 +6,7 @@
     <title>SD Memory Card Formatter (Install)</title>
     <version>5.0.1</version>
     <authors>SD Card Association</authors>
+    <packageSourceUrl>https://github.com/Zachar2/Chocolatey/tree/master/sdformatter</packageSourceUrl>
     <owners>Zachar</owners>
     <iconUrl>https://raw.githubusercontent.com/Zachar2/Chocolatey/master/sdformatter/sd-card-formatter.png</iconUrl>
     <projectUrl>https://www.sdcard.org/downloads/formatter_4/</projectUrl>
